@@ -2,6 +2,11 @@
   background-color: #FEFF99;
   padding: 100px 20px;
   text-align: center;
+  .mic {
+    position: absolute;
+    top: 85px;
+    left: 150px;
+  }
 }
 
 .slogan {
@@ -9,7 +14,7 @@
   color: #FEFF99;
   font-family: 'noir-medium', sans-serif;
   font-size: 22px;
-  padding: 10px;
+  padding: 25px;
   text-align: center;
   text-transform: uppercase;
 }
@@ -17,8 +22,8 @@
 .key-points {
   background-color: #CECFBD;
   color: #333333;
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 100px;
+  padding-bottom: 80px;
   text-align: center;
 
   .intro {
@@ -35,13 +40,13 @@
 
 .program {
   background-color: #666664;
-  padding-top: 50px;
+  padding-top: 80px;
   padding-bottom: 50px;
 
   .title {
     background: image-url('ribbon.png') top center no-repeat;
     background-size: 36%;
-    padding: 20px 0 35px 0;
+    padding: 20px 0 80px 0;
     color: #FEFF99;
     font-size: 32px;
     font-family: 'portico-vintage', sans-serif;
