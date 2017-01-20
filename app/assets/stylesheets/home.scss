@@ -1,11 +1,16 @@
+@import 'settings';
+
 .logo {
   background-color: #FEFF99;
   padding: 100px 20px;
   text-align: center;
+  .row {
+    position: relative;
+  }
   .mic {
     position: absolute;
-    top: 85px;
-    left: 150px;
+    top: -20px;
+    left: 40px;
   }
 }
 
