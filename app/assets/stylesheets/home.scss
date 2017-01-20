@@ -39,15 +39,15 @@
   padding-bottom: 50px;
 
   .title {
-    background-color: #333333;
+    background: image-url('ribbon.png') top center no-repeat;
+    background-size: 36%;
+    padding: 20px 0 35px 0;
     color: #FEFF99;
     font-size: 32px;
     font-family: 'portico-vintage', sans-serif;
     margin: auto;
-    padding: 10px;
     text-align: center;
     text-transform: uppercase;
-    width: 280px;
   }
 
   .subtitle {
